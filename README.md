@@ -4,9 +4,13 @@
 Відредагуйте файл відповідно до потреб та запустіть команду "Knit"
 
 **Перепишіть значення змінних для макету у файлі runFirst.Rmd**
+
 page_url: http://texty.org.ua/d/2018/test-project #лінк на ваш проект
+
 page_title: "Заголовок статті, який буде відображатись в соцмережах" 
+
 description: "Опис статті, який буде відображатись в соцмережах"
+
 title: "Заголовок статті"
 
 subtitle: "Аннотация до статті. Пару вступних реченнь"
@@ -31,7 +35,7 @@ read_more3_alt: "опис третього лінку"
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ex leo, sollicitudin ut est facilisis, vulputate aliquam felis. Fusce non iaculis metus. Aliquam nec facilisis enim. Proin quis risus fermentum, iaculis tellus at, lobortis mi. Nullam sapien elit, sollicitudin non porttitor quis, accumsan sed elit. Aenean dignissim lacus ac felis tincidunt interdum. Quisque vel pellentesque elit, id pulvinar quam. Quisque at mi consequat diam tincidunt placerat non eleifend diam. Nulla placerat quis neque ut faucibus. Duis ornare tellus nec dapibus faucibus. Vestibulum arcu nunc, pulvinar quis maximus in, dictum eget nibh. Vivamus eu cursus magna, ut eleifend enim. Etiam a pharetra ante. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
-**Додайте зображення:**
+**Додайте потрібні зображення:**
 <div class='bigImg'>
 ![](img/image.png){.bigImg .lazy } 
 </div>
